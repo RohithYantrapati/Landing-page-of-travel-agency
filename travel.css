@@ -33,7 +33,7 @@ nav a:hover {
     padding: 0 20px;
 }
 .jumbotron {
-    background-image: url('https://images.pexels.com/photos/2675268/pexels-photo-2675268.jpeg?cs=srgb&dl=pexels-silvia-trigo-545701-2675268.jpg&fm=jpg');
+    background-image: url('background.jpg');
     background-size: cover;
     color: #fff;
     text-align: center;
